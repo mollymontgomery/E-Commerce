@@ -11,16 +11,14 @@ https://user-images.githubusercontent.com/91499800/149425711-dafb9e0a-8d0c-4667-
   ## Table of Contents
   
   *[Installation](#installation)<br>
-  *[Usage](#usage)<br>
-  *[Contributions](#contributions)<br>
-  *[Tests](#tests)<br>
+  *[Credits](#contributions)<br>
   *[Questions](#questions)
 
 
   ## Installation
   In order to use this application you will need node.js. As well as npm install to install the dependencies.
 
-  ## Contributions
+  ## Credits
   W3 Schools <br> 
   Stack Overflow <br> 
   Brian Gearty - My tutor
